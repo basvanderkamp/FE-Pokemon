@@ -1,0 +1,53 @@
+
+
+.card-container {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-evenly;
+    width: 250px;
+    height: 500px;
+    flex-wrap: wrap;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.image {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    width: 150px;
+}
+
+.name {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
+}
+
+.text {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
+}
+
+.list {
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.link {
+    background-color: white;
+}
